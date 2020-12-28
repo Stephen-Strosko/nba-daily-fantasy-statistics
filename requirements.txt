@@ -1,0 +1,5 @@
+bs4==0.0.1
+draft-kings==3.1.0
+pandas==0.25.3
+requests==2.22.0
+selenium==3.141.0
